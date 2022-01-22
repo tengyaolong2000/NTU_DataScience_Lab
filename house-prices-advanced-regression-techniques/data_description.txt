@@ -481,7 +481,7 @@ Fence: Fence quality
 		
        GdPrv	Good Privacy
        MnPrv	Minimum Privacy
-       GdWo	Good Wood
+       GdWo	Good Woodpho
        MnWw	Minimum Wood/Wire
        NA	No Fence
 	
